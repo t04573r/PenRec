@@ -1,5 +1,5 @@
 # PenRec
-PenRec simply takes a screenshot every 15 seconds and compiles unique views into a multi-page PDF.
+PenRec simply takes a screenshot every n seconds and compiles unique views into a multi-page PDF.
 
 # Usage
 PenRec is intended to be used for presentation purposes. Easily retrace your steps during a pentest or other activity.
